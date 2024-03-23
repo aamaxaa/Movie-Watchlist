@@ -33,8 +33,9 @@ export default function StarRating({
   const [rating, setRating] = useState(defaultRating);
   const [hoverRating, setHoverRating] = useState(0);
 
-  function handleRate(rate) {
-    setRating(rate);
+  function handleRate(rating) {
+    setRating(rating);
+    onSetRating(rating);
   }
   const textStyle = {
     lineHelight: "1",
