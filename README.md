@@ -11,7 +11,7 @@ Movie Watchlist is an application designed to help movie enthusiasts keep track 
 - **User-Friendly Interface**: Simple and intuitive interface for managing your movie watchlist.
 
 ## Controls
-- ESC can be used to backout of a movie summary
+- ESC - can be used to backout of a movie summary
 
 ## Contact
 Maxine Shi - [mshiwpi@gmail.com](mailto:mshiwpi@gmail.com)
